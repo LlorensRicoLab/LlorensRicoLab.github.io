@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cristina Martí | Lloréns-Rico Lab</title>
-    <link>https://example.com/author/cristina-marti/</link>
-      <atom:link href="https://example.com/author/cristina-marti/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://llorensricolab.com/author/cristina-marti/</link>
+      <atom:link href="https://llorensricolab.com/author/cristina-marti/index.xml" rel="self" type="application/rss+xml" />
     <description>Cristina Martí</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://example.com/author/cristina-marti/avatar_huac8393492f2d7cb6f764012232255cd2_7110_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://llorensricolab.com/author/cristina-marti/avatar_huac8393492f2d7cb6f764012232255cd2_7110_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Cristina Martí</title>
-      <link>https://example.com/author/cristina-marti/</link>
+      <link>https://llorensricolab.com/author/cristina-marti/</link>
     </image>
     
   </channel>

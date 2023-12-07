@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Francis J O&#39;Reilly | Lloréns-Rico Lab</title>
-    <link>https://example.com/author/francis-j-oreilly/</link>
-      <atom:link href="https://example.com/author/francis-j-oreilly/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://llorensricolab.com/author/francis-j-oreilly/</link>
+      <atom:link href="https://llorensricolab.com/author/francis-j-oreilly/index.xml" rel="self" type="application/rss+xml" />
     <description>Francis J O&#39;Reilly</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu49bbaa1e1a27e0a2ace387cc2edf4090_12403_512x512_fill_lanczos_center_3.png</url>
+      <url>https://llorensricolab.com/media/icon_hu49bbaa1e1a27e0a2ace387cc2edf4090_12403_512x512_fill_lanczos_center_3.png</url>
       <title>Francis J O&#39;Reilly</title>
-      <link>https://example.com/author/francis-j-oreilly/</link>
+      <link>https://llorensricolab.com/author/francis-j-oreilly/</link>
     </image>
     
     <item>
       <title>Defining a minimal cell: essentiality of small ORF s and nc RNA s in a genome‐reduced bacterium</title>
-      <link>https://example.com/publication/essentiality/</link>
+      <link>https://llorensricolab.com/publication/essentiality/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/essentiality/</guid>
+      <guid>https://llorensricolab.com/publication/essentiality/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.

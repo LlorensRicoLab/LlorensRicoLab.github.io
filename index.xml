@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lloréns-Rico Lab</title>
-    <link>https://example.com/</link>
-      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://llorensricolab.com/</link>
+      <atom:link href="https://llorensricolab.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Lloréns-Rico Lab</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu49bbaa1e1a27e0a2ace387cc2edf4090_12403_512x512_fill_lanczos_center_3.png</url>
+      <url>https://llorensricolab.com/media/icon_hu49bbaa1e1a27e0a2ace387cc2edf4090_12403_512x512_fill_lanczos_center_3.png</url>
       <title>Lloréns-Rico Lab</title>
-      <link>https://example.com/</link>
+      <link>https://llorensricolab.com/</link>
     </image>
     
     <item>
       <title>Verónica Lloréns presents REGUBIOME at the outreach event &#34;Una horchata por la salud&#34;</title>
-      <link>https://example.com/post/02-10-2023_horchata/</link>
+      <link>https://llorensricolab.com/post/02-10-2023_horchata/</link>
       <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/02-10-2023_horchata/</guid>
+      <guid>https://llorensricolab.com/post/02-10-2023_horchata/</guid>
       <description>&lt;p&gt;Verónica Lloréns presented the ERC StG project REGUBIOME to the general public in an outreach event organized by FECYT in the context of the Spanish presidency of the Council of the European Union and the conference on Personalized Medicine that is taking place in Valencia these days.&lt;/p&gt;
 &lt;p&gt;The organizers of the event &amp;ldquo;Una horchata por la ciencia&amp;rdquo; invited local researchers working on EU-funded projects, to bring excellent science being done in Valencia closer to the public.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>The Lloréns-Rico Lab receives an ERC StG 2023</title>
-      <link>https://example.com/post/23-09-05_erc/</link>
+      <link>https://llorensricolab.com/post/23-09-05_erc/</link>
       <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/23-09-05_erc/</guid>
+      <guid>https://llorensricolab.com/post/23-09-05_erc/</guid>
       <description>&lt;p&gt;The project REGUBIOME has received one of the highly competitive ERC Starting grants, receiving 1.5M€ to pursue research on gene regulation in gut bacteria.&lt;/p&gt;
 &lt;p&gt;Link to press release: &lt;a href=&#34;https://www.cipf.es/archives/39240&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.cipf.es/archives/39240&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Link to article in Levante: &lt;a href=&#34;https://www.levante-emv.com/comunitat-valenciana/2023/09/05/joven-valenciana-veronica-llorens-rico-91727959.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.levante-emv.com/comunitat-valenciana/2023/09/05/joven-valenciana-veronica-llorens-rico-91727959.html&lt;/a&gt;&lt;/p&gt;
@@ -34,58 +34,58 @@
     
     <item>
       <title>The Lloréns-Rico group has received funding from the Agencia Estatal de Innovación</title>
-      <link>https://example.com/post/23-07-17_pgc/</link>
+      <link>https://llorensricolab.com/post/23-07-17_pgc/</link>
       <pubDate>Mon, 17 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/23-07-17_pgc/</guid>
+      <guid>https://llorensricolab.com/post/23-07-17_pgc/</guid>
       <description>&lt;p&gt;The project has been awarded a &lt;em&gt;Proyectos de Generación de Conocimiento 2022&lt;/em&gt; grant to study transcriptional variation in the gut microbiome during the next three years.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Invited talk at CABD</title>
-      <link>https://example.com/post/22-11-25_talk_cabd/</link>
+      <link>https://llorensricolab.com/post/22-11-25_talk_cabd/</link>
       <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/22-11-25_talk_cabd/</guid>
+      <guid>https://llorensricolab.com/post/22-11-25_talk_cabd/</guid>
       <description>&lt;p&gt;Our group leader, Verónica Lloréns-Rico, gave an invited talk at the &lt;em&gt;Centro Andaluz de Biología del Desarrollo&lt;/em&gt; (CABD).&lt;/p&gt;
 &lt;p&gt;She presented her previous work, as well as her vision for her newly established lab. The day was completed with plenty of discussions with the different groups at the CABD. Thanks a lot for the invitation, especially to Prof. Peter Askjaer for hosting!&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://example.com/contact/</link>
+      <link>https://llorensricolab.com/contact/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/contact/</guid>
+      <guid>https://llorensricolab.com/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Our research</title>
-      <link>https://example.com/research/</link>
+      <link>https://llorensricolab.com/research/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/research/</guid>
+      <guid>https://llorensricolab.com/research/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>https://example.com/tour/</link>
+      <link>https://llorensricolab.com/tour/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tour/</guid>
+      <guid>https://llorensricolab.com/tour/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Team</title>
-      <link>https://example.com/people/</link>
+      <link>https://llorensricolab.com/people/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/people/</guid>
+      <guid>https://llorensricolab.com/people/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Single-cell approaches in human microbiome research</title>
-      <link>https://example.com/publication/singlecell/</link>
+      <link>https://llorensricolab.com/publication/singlecell/</link>
       <pubDate>Thu, 21 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/singlecell/</guid>
+      <guid>https://llorensricolab.com/publication/singlecell/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -96,9 +96,9 @@
     
     <item>
       <title>Clinical practices underlie COVID-19 patient respiratory microbiome composition and its interactions with the host</title>
-      <link>https://example.com/publication/covid/</link>
+      <link>https://llorensricolab.com/publication/covid/</link>
       <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/covid/</guid>
+      <guid>https://llorensricolab.com/publication/covid/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -109,9 +109,9 @@
     
     <item>
       <title>Benchmarking microbiome transformations favors experimental quantitative approaches to address compositionality and sampling depth biases</title>
-      <link>https://example.com/publication/benchmark/</link>
+      <link>https://llorensricolab.com/publication/benchmark/</link>
       <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/benchmark/</guid>
+      <guid>https://llorensricolab.com/publication/benchmark/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -122,9 +122,9 @@
     
     <item>
       <title>Endogenous IFNB expression predicts outcome in critical patients with COVID-19</title>
-      <link>https://example.com/publication/lancetm/</link>
+      <link>https://llorensricolab.com/publication/lancetm/</link>
       <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/lancetm/</guid>
+      <guid>https://llorensricolab.com/publication/lancetm/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -135,9 +135,9 @@
     
     <item>
       <title>Determination of the gene regulatory network of a genome-reduced bacterium highlights alternative regulation independent of transcription factors</title>
-      <link>https://example.com/publication/regumyco/</link>
+      <link>https://llorensricolab.com/publication/regumyco/</link>
       <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/regumyco/</guid>
+      <guid>https://llorensricolab.com/publication/regumyco/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -148,9 +148,9 @@
     
     <item>
       <title>Tracking humans and microbes</title>
-      <link>https://example.com/publication/tracking/</link>
+      <link>https://llorensricolab.com/publication/tracking/</link>
       <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/tracking/</guid>
+      <guid>https://llorensricolab.com/publication/tracking/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -161,9 +161,9 @@
     
     <item>
       <title>Integrated culturing, modeling and transcriptomics uncovers complex interactions and emergent behavior in a three-species synthetic gut community</title>
-      <link>https://example.com/publication/emergent/</link>
+      <link>https://llorensricolab.com/publication/emergent/</link>
       <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/emergent/</guid>
+      <guid>https://llorensricolab.com/publication/emergent/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -174,9 +174,9 @@
     
     <item>
       <title>Alternative transcriptional regulation in genome-reduced bacteria</title>
-      <link>https://example.com/publication/alternative/</link>
+      <link>https://llorensricolab.com/publication/alternative/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/alternative/</guid>
+      <guid>https://llorensricolab.com/publication/alternative/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -187,9 +187,9 @@
     
     <item>
       <title>Insights into the mechanisms of basal coordination of transcription using a genome-reduced bacterium</title>
-      <link>https://example.com/publication/junier/</link>
+      <link>https://llorensricolab.com/publication/junier/</link>
       <pubDate>Wed, 22 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/junier/</guid>
+      <guid>https://llorensricolab.com/publication/junier/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -200,9 +200,9 @@
     
     <item>
       <title>Bacterial antisense RNAs are mainly the product of transcriptional noise</title>
-      <link>https://example.com/publication/antisense/</link>
+      <link>https://llorensricolab.com/publication/antisense/</link>
       <pubDate>Fri, 04 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/antisense/</guid>
+      <guid>https://llorensricolab.com/publication/antisense/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -213,9 +213,9 @@
     
     <item>
       <title>The yin–yang of kinase activation and unfolding explains the peculiarity of Val600 in the activation segment of BRAF</title>
-      <link>https://example.com/publication/yinyang/</link>
+      <link>https://llorensricolab.com/publication/yinyang/</link>
       <pubDate>Fri, 08 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/yinyang/</guid>
+      <guid>https://llorensricolab.com/publication/yinyang/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -226,9 +226,9 @@
     
     <item>
       <title>Comparative “-omics” in Mycoplasma pneumoniae clinical isolates reveals key virulence factors</title>
-      <link>https://example.com/publication/virulence/</link>
+      <link>https://llorensricolab.com/publication/virulence/</link>
       <pubDate>Thu, 03 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/virulence/</guid>
+      <guid>https://llorensricolab.com/publication/virulence/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -239,9 +239,9 @@
     
     <item>
       <title>Distinguishing between productive and abortive promoters using a random forest classifier in Mycoplasma pneumoniae</title>
-      <link>https://example.com/publication/promoters/</link>
+      <link>https://llorensricolab.com/publication/promoters/</link>
       <pubDate>Mon, 16 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/promoters/</guid>
+      <guid>https://llorensricolab.com/publication/promoters/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -252,9 +252,9 @@
     
     <item>
       <title>Defining a minimal cell: essentiality of small ORF s and nc RNA s in a genome‐reduced bacterium</title>
-      <link>https://example.com/publication/essentiality/</link>
+      <link>https://llorensricolab.com/publication/essentiality/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/essentiality/</guid>
+      <guid>https://llorensricolab.com/publication/essentiality/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -265,9 +265,9 @@
     
     <item>
       <title>Assessing the hodgepodge of non-mapped reads in bacterial transcriptomes: real or artifactual RNA chimeras?</title>
-      <link>https://example.com/publication/hodgepodge/</link>
+      <link>https://llorensricolab.com/publication/hodgepodge/</link>
       <pubDate>Tue, 29 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/hodgepodge/</guid>
+      <guid>https://llorensricolab.com/publication/hodgepodge/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -278,9 +278,9 @@
     
     <item>
       <title>Comprehensive Methylome Characterization of Mycoplasma genitalium and Mycoplasma pneumoniae at Single-Base Resolution</title>
-      <link>https://example.com/publication/methylome/</link>
+      <link>https://llorensricolab.com/publication/methylome/</link>
       <pubDate>Thu, 03 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/methylome/</guid>
+      <guid>https://llorensricolab.com/publication/methylome/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -291,9 +291,9 @@
     
     <item>
       <title>Mechanisms of gene regulation</title>
-      <link>https://example.com/research_topics/mechanisms/</link>
+      <link>https://llorensricolab.com/research_topics/mechanisms/</link>
       <pubDate>Thu, 01 Jan 1970 01:33:43 +0100</pubDate>
-      <guid>https://example.com/research_topics/mechanisms/</guid>
+      <guid>https://llorensricolab.com/research_topics/mechanisms/</guid>
       <description>&lt;p&gt;Bacteria have a large functional plasticity that allows them to adapt to changing environments and to respond to different stimuli to survive. This functional plasticity is well understood for some model bacteria in vitro, yet the implications in complex ecosystems such as the gut microbiome are unclear. We aim at understanding how is gene expression regulated in gut bacteria, exploring i) what are the stimuli triggering specific gene expression changes, and ii) what are the molecular mechanisms underlying such specific responses, that is, which transcriptional regulators are involved. This will allow us to design targeted strategies for functional modulation of these bacteria in the future.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Related projects:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -303,9 +303,9 @@
     
     <item>
       <title>Drivers of transcriptional variation</title>
-      <link>https://example.com/research_topics/drivers/</link>
+      <link>https://llorensricolab.com/research_topics/drivers/</link>
       <pubDate>Thu, 01 Jan 1970 01:33:41 +0100</pubDate>
-      <guid>https://example.com/research_topics/drivers/</guid>
+      <guid>https://llorensricolab.com/research_topics/drivers/</guid>
       <description>&lt;p&gt;The composition of the gut microbiota is impacted by several factors: host age, sex and BMI; dietary habits; drug intake&amp;hellip; However, we know very little of how these factors impact transcriptional variation in the microbiota. We will use cohort studies to address the impact of both extrinsic and intrinsic factors in the functionality of the gut microbiota.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Related projects:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -315,18 +315,18 @@
     
     <item>
       <title>Functional alterations in disease</title>
-      <link>https://example.com/research_topics/disease/</link>
+      <link>https://llorensricolab.com/research_topics/disease/</link>
       <pubDate>Thu, 01 Jan 1970 01:33:40 +0100</pubDate>
-      <guid>https://example.com/research_topics/disease/</guid>
+      <guid>https://llorensricolab.com/research_topics/disease/</guid>
       <description>&lt;p&gt;It is well known that the gut microbiota performs key functions to maintain host health, and alterations in those functions are linked to different disorders. We are interested in deciphering the functional changes occurring in different metabolic disorders. We will study expression changes both globally, considering the entire ecosystem, and focusing on specific bacteria of interest. Our goal is to find potential biomarkers for early diagnosis and patient stratification, allowing for improved treatment strategies.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Related projects:&lt;/strong&gt; Coming soon&lt;/p&gt;</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/admin/config.yml</link>
+      <link>https://llorensricolab.com/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/admin/config.yml</guid>
+      <guid>https://llorensricolab.com/admin/config.yml</guid>
       <description></description>
     </item>
     

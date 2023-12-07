@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Samuel Miravet-Verde | Lloréns-Rico Lab</title>
-    <link>https://example.com/author/samuel-miravet-verde/</link>
-      <atom:link href="https://example.com/author/samuel-miravet-verde/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://llorensricolab.com/author/samuel-miravet-verde/</link>
+      <atom:link href="https://llorensricolab.com/author/samuel-miravet-verde/index.xml" rel="self" type="application/rss+xml" />
     <description>Samuel Miravet-Verde</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu49bbaa1e1a27e0a2ace387cc2edf4090_12403_512x512_fill_lanczos_center_3.png</url>
+      <url>https://llorensricolab.com/media/icon_hu49bbaa1e1a27e0a2ace387cc2edf4090_12403_512x512_fill_lanczos_center_3.png</url>
       <title>Samuel Miravet-Verde</title>
-      <link>https://example.com/author/samuel-miravet-verde/</link>
+      <link>https://llorensricolab.com/author/samuel-miravet-verde/</link>
     </image>
     
     <item>
       <title>Alternative transcriptional regulation in genome-reduced bacteria</title>
-      <link>https://example.com/publication/alternative/</link>
+      <link>https://llorensricolab.com/publication/alternative/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/alternative/</guid>
+      <guid>https://llorensricolab.com/publication/alternative/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.

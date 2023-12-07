@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Elena Tormo | Lloréns-Rico Lab</title>
-    <link>https://example.com/author/elena-tormo/</link>
-      <atom:link href="https://example.com/author/elena-tormo/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://llorensricolab.com/author/elena-tormo/</link>
+      <atom:link href="https://llorensricolab.com/author/elena-tormo/index.xml" rel="self" type="application/rss+xml" />
     <description>Elena Tormo</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://example.com/author/elena-tormo/avatar_hu253a9590914ce535d52278d481fd87e2_17540_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://llorensricolab.com/author/elena-tormo/avatar_hu253a9590914ce535d52278d481fd87e2_17540_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Elena Tormo</title>
-      <link>https://example.com/author/elena-tormo/</link>
+      <link>https://llorensricolab.com/author/elena-tormo/</link>
     </image>
     
   </channel>

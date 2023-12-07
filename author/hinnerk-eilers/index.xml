@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hinnerk Eilers | Lloréns-Rico Lab</title>
-    <link>https://example.com/author/hinnerk-eilers/</link>
-      <atom:link href="https://example.com/author/hinnerk-eilers/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://llorensricolab.com/author/hinnerk-eilers/</link>
+      <atom:link href="https://llorensricolab.com/author/hinnerk-eilers/index.xml" rel="self" type="application/rss+xml" />
     <description>Hinnerk Eilers</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 28 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu49bbaa1e1a27e0a2ace387cc2edf4090_12403_512x512_fill_lanczos_center_3.png</url>
+      <url>https://llorensricolab.com/media/icon_hu49bbaa1e1a27e0a2ace387cc2edf4090_12403_512x512_fill_lanczos_center_3.png</url>
       <title>Hinnerk Eilers</title>
-      <link>https://example.com/author/hinnerk-eilers/</link>
+      <link>https://llorensricolab.com/author/hinnerk-eilers/</link>
     </image>
     
     <item>
       <title>Determination of the gene regulatory network of a genome-reduced bacterium highlights alternative regulation independent of transcription factors</title>
-      <link>https://example.com/publication/regumyco/</link>
+      <link>https://llorensricolab.com/publication/regumyco/</link>
       <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/regumyco/</guid>
+      <guid>https://llorensricolab.com/publication/regumyco/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.

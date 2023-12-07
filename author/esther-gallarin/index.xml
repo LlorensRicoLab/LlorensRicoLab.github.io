@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Esther Gallarín | Lloréns-Rico Lab</title>
-    <link>https://example.com/author/esther-gallarin/</link>
-      <atom:link href="https://example.com/author/esther-gallarin/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://llorensricolab.com/author/esther-gallarin/</link>
+      <atom:link href="https://llorensricolab.com/author/esther-gallarin/index.xml" rel="self" type="application/rss+xml" />
     <description>Esther Gallarín</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://example.com/author/esther-gallarin/avatar_hu187c756e021dbb62d91da4574b570c28_13221_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://llorensricolab.com/author/esther-gallarin/avatar_hu187c756e021dbb62d91da4574b570c28_13221_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Esther Gallarín</title>
-      <link>https://example.com/author/esther-gallarin/</link>
+      <link>https://llorensricolab.com/author/esther-gallarin/</link>
     </image>
     
   </channel>

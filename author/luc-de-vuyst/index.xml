@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Luc De Vuyst | Lloréns-Rico Lab</title>
-    <link>https://example.com/author/luc-de-vuyst/</link>
-      <atom:link href="https://example.com/author/luc-de-vuyst/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://llorensricolab.com/author/luc-de-vuyst/</link>
+      <atom:link href="https://llorensricolab.com/author/luc-de-vuyst/index.xml" rel="self" type="application/rss+xml" />
     <description>Luc De Vuyst</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 06 Oct 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu49bbaa1e1a27e0a2ace387cc2edf4090_12403_512x512_fill_lanczos_center_3.png</url>
+      <url>https://llorensricolab.com/media/icon_hu49bbaa1e1a27e0a2ace387cc2edf4090_12403_512x512_fill_lanczos_center_3.png</url>
       <title>Luc De Vuyst</title>
-      <link>https://example.com/author/luc-de-vuyst/</link>
+      <link>https://llorensricolab.com/author/luc-de-vuyst/</link>
     </image>
     
     <item>
       <title>Integrated culturing, modeling and transcriptomics uncovers complex interactions and emergent behavior in a three-species synthetic gut community</title>
-      <link>https://example.com/publication/emergent/</link>
+      <link>https://llorensricolab.com/publication/emergent/</link>
       <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/emergent/</guid>
+      <guid>https://llorensricolab.com/publication/emergent/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.

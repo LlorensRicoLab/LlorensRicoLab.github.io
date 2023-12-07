@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research topics | Lloréns-Rico Lab</title>
-    <link>https://example.com/research_topics/</link>
-      <atom:link href="https://example.com/research_topics/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://llorensricolab.com/research_topics/</link>
+      <atom:link href="https://llorensricolab.com/research_topics/index.xml" rel="self" type="application/rss+xml" />
     <description>Research topics</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 1970 01:33:43 +0100</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu49bbaa1e1a27e0a2ace387cc2edf4090_12403_512x512_fill_lanczos_center_3.png</url>
+      <url>https://llorensricolab.com/media/icon_hu49bbaa1e1a27e0a2ace387cc2edf4090_12403_512x512_fill_lanczos_center_3.png</url>
       <title>Research topics</title>
-      <link>https://example.com/research_topics/</link>
+      <link>https://llorensricolab.com/research_topics/</link>
     </image>
     
     <item>
       <title>Mechanisms of gene regulation</title>
-      <link>https://example.com/research_topics/mechanisms/</link>
+      <link>https://llorensricolab.com/research_topics/mechanisms/</link>
       <pubDate>Thu, 01 Jan 1970 01:33:43 +0100</pubDate>
-      <guid>https://example.com/research_topics/mechanisms/</guid>
+      <guid>https://llorensricolab.com/research_topics/mechanisms/</guid>
       <description>&lt;p&gt;Bacteria have a large functional plasticity that allows them to adapt to changing environments and to respond to different stimuli to survive. This functional plasticity is well understood for some model bacteria in vitro, yet the implications in complex ecosystems such as the gut microbiome are unclear. We aim at understanding how is gene expression regulated in gut bacteria, exploring i) what are the stimuli triggering specific gene expression changes, and ii) what are the molecular mechanisms underlying such specific responses, that is, which transcriptional regulators are involved. This will allow us to design targeted strategies for functional modulation of these bacteria in the future.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Related projects:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -26,9 +26,9 @@
     
     <item>
       <title>Drivers of transcriptional variation</title>
-      <link>https://example.com/research_topics/drivers/</link>
+      <link>https://llorensricolab.com/research_topics/drivers/</link>
       <pubDate>Thu, 01 Jan 1970 01:33:41 +0100</pubDate>
-      <guid>https://example.com/research_topics/drivers/</guid>
+      <guid>https://llorensricolab.com/research_topics/drivers/</guid>
       <description>&lt;p&gt;The composition of the gut microbiota is impacted by several factors: host age, sex and BMI; dietary habits; drug intake&amp;hellip; However, we know very little of how these factors impact transcriptional variation in the microbiota. We will use cohort studies to address the impact of both extrinsic and intrinsic factors in the functionality of the gut microbiota.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Related projects:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -38,9 +38,9 @@
     
     <item>
       <title>Functional alterations in disease</title>
-      <link>https://example.com/research_topics/disease/</link>
+      <link>https://llorensricolab.com/research_topics/disease/</link>
       <pubDate>Thu, 01 Jan 1970 01:33:40 +0100</pubDate>
-      <guid>https://example.com/research_topics/disease/</guid>
+      <guid>https://llorensricolab.com/research_topics/disease/</guid>
       <description>&lt;p&gt;It is well known that the gut microbiota performs key functions to maintain host health, and alterations in those functions are linked to different disorders. We are interested in deciphering the functional changes occurring in different metabolic disorders. We will study expression changes both globally, considering the entire ecosystem, and focusing on specific bacteria of interest. Our goal is to find potential biomarkers for early diagnosis and patient stratification, allowing for improved treatment strategies.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Related projects:&lt;/strong&gt; Coming soon&lt;/p&gt;</description>
     </item>

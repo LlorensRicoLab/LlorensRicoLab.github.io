@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Eva Yus | Lloréns-Rico Lab</title>
-    <link>https://example.com/author/eva-yus/</link>
-      <atom:link href="https://example.com/author/eva-yus/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://llorensricolab.com/author/eva-yus/</link>
+      <atom:link href="https://llorensricolab.com/author/eva-yus/index.xml" rel="self" type="application/rss+xml" />
     <description>Eva Yus</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 28 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu49bbaa1e1a27e0a2ace387cc2edf4090_12403_512x512_fill_lanczos_center_3.png</url>
+      <url>https://llorensricolab.com/media/icon_hu49bbaa1e1a27e0a2ace387cc2edf4090_12403_512x512_fill_lanczos_center_3.png</url>
       <title>Eva Yus</title>
-      <link>https://example.com/author/eva-yus/</link>
+      <link>https://llorensricolab.com/author/eva-yus/</link>
     </image>
     
     <item>
       <title>Determination of the gene regulatory network of a genome-reduced bacterium highlights alternative regulation independent of transcription factors</title>
-      <link>https://example.com/publication/regumyco/</link>
+      <link>https://llorensricolab.com/publication/regumyco/</link>
       <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/regumyco/</guid>
+      <guid>https://llorensricolab.com/publication/regumyco/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -27,9 +27,9 @@
     
     <item>
       <title>Insights into the mechanisms of basal coordination of transcription using a genome-reduced bacterium</title>
-      <link>https://example.com/publication/junier/</link>
+      <link>https://llorensricolab.com/publication/junier/</link>
       <pubDate>Wed, 22 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/junier/</guid>
+      <guid>https://llorensricolab.com/publication/junier/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -40,9 +40,9 @@
     
     <item>
       <title>Defining a minimal cell: essentiality of small ORF s and nc RNA s in a genome‐reduced bacterium</title>
-      <link>https://example.com/publication/essentiality/</link>
+      <link>https://llorensricolab.com/publication/essentiality/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/essentiality/</guid>
+      <guid>https://llorensricolab.com/publication/essentiality/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.

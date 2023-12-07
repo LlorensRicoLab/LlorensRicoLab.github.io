@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jeroen Raes | Lloréns-Rico Lab</title>
-    <link>https://example.com/author/jeroen-raes/</link>
-      <atom:link href="https://example.com/author/jeroen-raes/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://llorensricolab.com/author/jeroen-raes/</link>
+      <atom:link href="https://llorensricolab.com/author/jeroen-raes/index.xml" rel="self" type="application/rss+xml" />
     <description>Jeroen Raes</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu49bbaa1e1a27e0a2ace387cc2edf4090_12403_512x512_fill_lanczos_center_3.png</url>
+      <url>https://llorensricolab.com/media/icon_hu49bbaa1e1a27e0a2ace387cc2edf4090_12403_512x512_fill_lanczos_center_3.png</url>
       <title>Jeroen Raes</title>
-      <link>https://example.com/author/jeroen-raes/</link>
+      <link>https://llorensricolab.com/author/jeroen-raes/</link>
     </image>
     
     <item>
       <title>Single-cell approaches in human microbiome research</title>
-      <link>https://example.com/publication/singlecell/</link>
+      <link>https://llorensricolab.com/publication/singlecell/</link>
       <pubDate>Thu, 21 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/singlecell/</guid>
+      <guid>https://llorensricolab.com/publication/singlecell/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -27,9 +27,9 @@
     
     <item>
       <title>Clinical practices underlie COVID-19 patient respiratory microbiome composition and its interactions with the host</title>
-      <link>https://example.com/publication/covid/</link>
+      <link>https://llorensricolab.com/publication/covid/</link>
       <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/covid/</guid>
+      <guid>https://llorensricolab.com/publication/covid/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -40,9 +40,9 @@
     
     <item>
       <title>Benchmarking microbiome transformations favors experimental quantitative approaches to address compositionality and sampling depth biases</title>
-      <link>https://example.com/publication/benchmark/</link>
+      <link>https://llorensricolab.com/publication/benchmark/</link>
       <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/benchmark/</guid>
+      <guid>https://llorensricolab.com/publication/benchmark/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -53,9 +53,9 @@
     
     <item>
       <title>Tracking humans and microbes</title>
-      <link>https://example.com/publication/tracking/</link>
+      <link>https://llorensricolab.com/publication/tracking/</link>
       <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/tracking/</guid>
+      <guid>https://llorensricolab.com/publication/tracking/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -66,9 +66,9 @@
     
     <item>
       <title>Integrated culturing, modeling and transcriptomics uncovers complex interactions and emergent behavior in a three-species synthetic gut community</title>
-      <link>https://example.com/publication/emergent/</link>
+      <link>https://llorensricolab.com/publication/emergent/</link>
       <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/emergent/</guid>
+      <guid>https://llorensricolab.com/publication/emergent/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.

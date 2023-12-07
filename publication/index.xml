@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent publications | Lloréns-Rico Lab</title>
-    <link>https://example.com/publication/</link>
-      <atom:link href="https://example.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://llorensricolab.com/publication/</link>
+      <atom:link href="https://llorensricolab.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent publications</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu49bbaa1e1a27e0a2ace387cc2edf4090_12403_512x512_fill_lanczos_center_3.png</url>
+      <url>https://llorensricolab.com/media/icon_hu49bbaa1e1a27e0a2ace387cc2edf4090_12403_512x512_fill_lanczos_center_3.png</url>
       <title>Recent publications</title>
-      <link>https://example.com/publication/</link>
+      <link>https://llorensricolab.com/publication/</link>
     </image>
     
     <item>
       <title>Single-cell approaches in human microbiome research</title>
-      <link>https://example.com/publication/singlecell/</link>
+      <link>https://llorensricolab.com/publication/singlecell/</link>
       <pubDate>Thu, 21 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/singlecell/</guid>
+      <guid>https://llorensricolab.com/publication/singlecell/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -27,9 +27,9 @@
     
     <item>
       <title>Clinical practices underlie COVID-19 patient respiratory microbiome composition and its interactions with the host</title>
-      <link>https://example.com/publication/covid/</link>
+      <link>https://llorensricolab.com/publication/covid/</link>
       <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/covid/</guid>
+      <guid>https://llorensricolab.com/publication/covid/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -40,9 +40,9 @@
     
     <item>
       <title>Benchmarking microbiome transformations favors experimental quantitative approaches to address compositionality and sampling depth biases</title>
-      <link>https://example.com/publication/benchmark/</link>
+      <link>https://llorensricolab.com/publication/benchmark/</link>
       <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/benchmark/</guid>
+      <guid>https://llorensricolab.com/publication/benchmark/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -53,9 +53,9 @@
     
     <item>
       <title>Endogenous IFNB expression predicts outcome in critical patients with COVID-19</title>
-      <link>https://example.com/publication/lancetm/</link>
+      <link>https://llorensricolab.com/publication/lancetm/</link>
       <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/lancetm/</guid>
+      <guid>https://llorensricolab.com/publication/lancetm/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -66,9 +66,9 @@
     
     <item>
       <title>Determination of the gene regulatory network of a genome-reduced bacterium highlights alternative regulation independent of transcription factors</title>
-      <link>https://example.com/publication/regumyco/</link>
+      <link>https://llorensricolab.com/publication/regumyco/</link>
       <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/regumyco/</guid>
+      <guid>https://llorensricolab.com/publication/regumyco/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -79,9 +79,9 @@
     
     <item>
       <title>Tracking humans and microbes</title>
-      <link>https://example.com/publication/tracking/</link>
+      <link>https://llorensricolab.com/publication/tracking/</link>
       <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/tracking/</guid>
+      <guid>https://llorensricolab.com/publication/tracking/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -92,9 +92,9 @@
     
     <item>
       <title>Integrated culturing, modeling and transcriptomics uncovers complex interactions and emergent behavior in a three-species synthetic gut community</title>
-      <link>https://example.com/publication/emergent/</link>
+      <link>https://llorensricolab.com/publication/emergent/</link>
       <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/emergent/</guid>
+      <guid>https://llorensricolab.com/publication/emergent/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -105,9 +105,9 @@
     
     <item>
       <title>Alternative transcriptional regulation in genome-reduced bacteria</title>
-      <link>https://example.com/publication/alternative/</link>
+      <link>https://llorensricolab.com/publication/alternative/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/alternative/</guid>
+      <guid>https://llorensricolab.com/publication/alternative/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -118,9 +118,9 @@
     
     <item>
       <title>Insights into the mechanisms of basal coordination of transcription using a genome-reduced bacterium</title>
-      <link>https://example.com/publication/junier/</link>
+      <link>https://llorensricolab.com/publication/junier/</link>
       <pubDate>Wed, 22 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/junier/</guid>
+      <guid>https://llorensricolab.com/publication/junier/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -131,9 +131,9 @@
     
     <item>
       <title>Bacterial antisense RNAs are mainly the product of transcriptional noise</title>
-      <link>https://example.com/publication/antisense/</link>
+      <link>https://llorensricolab.com/publication/antisense/</link>
       <pubDate>Fri, 04 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/antisense/</guid>
+      <guid>https://llorensricolab.com/publication/antisense/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -144,9 +144,9 @@
     
     <item>
       <title>The yin–yang of kinase activation and unfolding explains the peculiarity of Val600 in the activation segment of BRAF</title>
-      <link>https://example.com/publication/yinyang/</link>
+      <link>https://llorensricolab.com/publication/yinyang/</link>
       <pubDate>Fri, 08 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/yinyang/</guid>
+      <guid>https://llorensricolab.com/publication/yinyang/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -157,9 +157,9 @@
     
     <item>
       <title>Comparative “-omics” in Mycoplasma pneumoniae clinical isolates reveals key virulence factors</title>
-      <link>https://example.com/publication/virulence/</link>
+      <link>https://llorensricolab.com/publication/virulence/</link>
       <pubDate>Thu, 03 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/virulence/</guid>
+      <guid>https://llorensricolab.com/publication/virulence/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -170,9 +170,9 @@
     
     <item>
       <title>Distinguishing between productive and abortive promoters using a random forest classifier in Mycoplasma pneumoniae</title>
-      <link>https://example.com/publication/promoters/</link>
+      <link>https://llorensricolab.com/publication/promoters/</link>
       <pubDate>Mon, 16 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/promoters/</guid>
+      <guid>https://llorensricolab.com/publication/promoters/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -183,9 +183,9 @@
     
     <item>
       <title>Defining a minimal cell: essentiality of small ORF s and nc RNA s in a genome‐reduced bacterium</title>
-      <link>https://example.com/publication/essentiality/</link>
+      <link>https://llorensricolab.com/publication/essentiality/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/essentiality/</guid>
+      <guid>https://llorensricolab.com/publication/essentiality/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -196,9 +196,9 @@
     
     <item>
       <title>Assessing the hodgepodge of non-mapped reads in bacterial transcriptomes: real or artifactual RNA chimeras?</title>
-      <link>https://example.com/publication/hodgepodge/</link>
+      <link>https://llorensricolab.com/publication/hodgepodge/</link>
       <pubDate>Tue, 29 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/hodgepodge/</guid>
+      <guid>https://llorensricolab.com/publication/hodgepodge/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -209,9 +209,9 @@
     
     <item>
       <title>Comprehensive Methylome Characterization of Mycoplasma genitalium and Mycoplasma pneumoniae at Single-Base Resolution</title>
-      <link>https://example.com/publication/methylome/</link>
+      <link>https://llorensricolab.com/publication/methylome/</link>
       <pubDate>Thu, 03 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/methylome/</guid>
+      <guid>https://llorensricolab.com/publication/methylome/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
