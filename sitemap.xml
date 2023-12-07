@@ -2,28 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/join/</loc>
-    <lastmod>2023-08-08T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/join/postdoc_genomeediting/</loc>
-    <lastmod>2023-08-08T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/join/predoc_bioinfo/</loc>
-    <lastmod>2023-08-08T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/join/predoc_spcs/</loc>
-    <lastmod>2023-08-08T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://example.com/post/</loc>
-    <lastmod>2023-07-17T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/02-10-2023_horchata/</loc>
+    <lastmod>2023-10-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/23-09-05_erc/</loc>
+    <lastmod>2023-09-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/post/23-07-17_pgc/</loc>
     <lastmod>2023-07-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/22-11-25_talk_cabd/</loc>
+    <lastmod>2022-11-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/</loc>
@@ -34,11 +30,15 @@
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/people/</loc>
+    <loc>https://example.com/research/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tour/</loc>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/people/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -450,6 +450,22 @@
     <lastmod>2013-01-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/research_topics/mechanisms/</loc>
+    <lastmod>1970-01-01T01:33:43+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/research_topics/</loc>
+    <lastmod>1970-01-01T01:33:43+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/research_topics/drivers/</loc>
+    <lastmod>1970-01-01T01:33:41+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/research_topics/disease/</loc>
+    <lastmod>1970-01-01T01:33:40+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -457,6 +473,15 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/author/cristina-marti/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/elena-tormo/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/esther-gallarin/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/join/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

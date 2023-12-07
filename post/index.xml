@@ -5,12 +5,32 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 17 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu49bbaa1e1a27e0a2ace387cc2edf4090_12403_512x512_fill_lanczos_center_3.png</url>
       <title>Latest News</title>
       <link>https://example.com/post/</link>
     </image>
+    
+    <item>
+      <title>Verónica Lloréns presents REGUBIOME at the outreach event &#34;Una horchata por la salud&#34;</title>
+      <link>https://example.com/post/02-10-2023_horchata/</link>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/02-10-2023_horchata/</guid>
+      <description>&lt;p&gt;Verónica Lloréns presented the ERC StG project REGUBIOME to the general public in an outreach event organized by FECYT in the context of the Spanish presidency of the Council of the European Union and the conference on Personalized Medicine that is taking place in Valencia these days.&lt;/p&gt;
+&lt;p&gt;The organizers of the event &amp;ldquo;Una horchata por la ciencia&amp;rdquo; invited local researchers working on EU-funded projects, to bring excellent science being done in Valencia closer to the public.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Lloréns-Rico Lab receives an ERC StG 2023</title>
+      <link>https://example.com/post/23-09-05_erc/</link>
+      <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/23-09-05_erc/</guid>
+      <description>&lt;p&gt;The project REGUBIOME has received one of the highly competitive ERC Starting grants, receiving 1.5M€ to pursue research on gene regulation in gut bacteria.&lt;/p&gt;
+&lt;p&gt;Link to press release: &lt;a href=&#34;https://www.cipf.es/archives/39240&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.cipf.es/archives/39240&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Link to article in Levante: &lt;a href=&#34;https://www.levante-emv.com/comunitat-valenciana/2023/09/05/joven-valenciana-veronica-llorens-rico-91727959.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.levante-emv.com/comunitat-valenciana/2023/09/05/joven-valenciana-veronica-llorens-rico-91727959.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Link to interview in Valencia Plaza: &lt;a href=&#34;https://valenciaplaza.com/veronica-llorens-investigacion-abrir-puertas-medicina-personalizada&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://valenciaplaza.com/veronica-llorens-investigacion-abrir-puertas-medicina-personalizada&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>The Lloréns-Rico group has received funding from the Agencia Estatal de Innovación</title>
@@ -18,6 +38,15 @@
       <pubDate>Mon, 17 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/23-07-17_pgc/</guid>
       <description>&lt;p&gt;The project has been awarded a &lt;em&gt;Proyectos de Generación de Conocimiento 2022&lt;/em&gt; grant to study transcriptional variation in the gut microbiome during the next three years.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Invited talk at CABD</title>
+      <link>https://example.com/post/22-11-25_talk_cabd/</link>
+      <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/22-11-25_talk_cabd/</guid>
+      <description>&lt;p&gt;Our group leader, Verónica Lloréns-Rico, gave an invited talk at the &lt;em&gt;Centro Andaluz de Biología del Desarrollo&lt;/em&gt; (CABD).&lt;/p&gt;
+&lt;p&gt;She presented her previous work, as well as her vision for her newly established lab. The day was completed with plenty of discussions with the different groups at the CABD. Thanks a lot for the invitation, especially to Prof. Peter Askjaer for hosting!&lt;/p&gt;</description>
     </item>
     
   </channel>

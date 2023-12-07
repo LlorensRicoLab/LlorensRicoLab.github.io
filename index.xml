@@ -7,190 +7,29 @@
     <description>Lloréns-Rico Lab</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu49bbaa1e1a27e0a2ace387cc2edf4090_12403_512x512_fill_lanczos_center_3.png</url>
       <title>Lloréns-Rico Lab</title>
       <link>https://example.com/</link>
     </image>
     
     <item>
-      <title>Postdoctoral researcher in bacterial genome editing</title>
-      <link>https://example.com/join/postdoc_genomeediting/</link>
-      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/join/postdoc_genomeediting/</guid>
-      <description>&lt;p&gt;The &lt;strong&gt;Systems Biology of Host-Microbiome Interactions&lt;/strong&gt; group is recruiting a postdoctoral researcher to work in the ERC-funded project &amp;ldquo;Transcriptional REGUlation as a mediator of bacterial interactions in the microBIOME&amp;rdquo; (Project 101116482 - REGUBIOME - ERC-StG-2023). This project aims to reveal the gene regulatory networks of specific health-associated bacteria from the human gut microbiome, to understand how external stimuli lead to changes in their gene expression, influencing their interactions with the rest of the gut ecosystem.&lt;/p&gt;
-&lt;p&gt;The project will be developed at the &lt;em&gt;&lt;strong&gt;Centro de Investigación Príncipe Felipe (CIPF)&lt;/strong&gt;&lt;/em&gt; in Valencia, Spain, a leading biomedical institute developing competitive and internationally relevant research in the fields of metabolic disorders, cancer and neuronal pathologies. The research centre, located in Valencia, occupies an area of 32,000m2 and it is equipped with the most advanced infraestructures, facilities and technological equipment.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Responsibilities and qualifications&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;In this role, you will be developing genome editing tools for health-associated bacteria in the gut microbiome, and coupling high-throughput genome editing with screening experiments to reconstruct the gene regulatory networks of these bacteria.&lt;/p&gt;
-&lt;p&gt;Your roles will involve:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Developing genetic tools for the manipulation of anaerobic bacteria&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Designing and performing large-scale genome-editing screens&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Performing high-throughput transcriptomic screens in the mutants generated&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Supervision of BSc and MSc students involved in the project&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Active participation in accomplishing the milestones and deliverables of the project&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Your qualifications are:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Required degree: the candidate must have a PhD in microbiology, molecular biology, biotechnology or related disciplines&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Experience in bacterial genome editing&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Strong knowledge of (gut) bacterial physiology&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Excellent communication skills in written and spoken English&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;In addition, the following will be considered:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Experience in programming with R and/or Python&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Experience in transcriptomics analyses&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Experience in working with anaerobic bacteria&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;What we offer:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;We offer a full time contract for 2.5 years, fully funded by the ERC project REGUBIOME (ERC StG 2023, project 101116482). Salary level follows CIPF salary scales for postdoctoral researchers (R2 category), in agreement with the corresponding collective agreement (Convenio de la Sanidad Privada de la Provincia de Valencia).&lt;/p&gt;
-&lt;p&gt;The CIPF promotes equal treatment and opportunities between women and men, which should be considered a fundamental aspect of the CIPF&amp;rsquo;s labor relations and human resources management. In addition, the CIPF is committed to reconcile a work and family life of its employees and are offering the possibility to benefit from flexible working hours. The CIPF is committed to complying with the European Charter for Researchers and the Code of Conduct for the Recruitment of Researchers (EU Charter &amp;amp; Code) by developing its
-human resources strategy for researchers (HRS4R) and through its open, transparent, and merit-based recruitment policy (OTM-R)&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;How to apply:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;You can find the full official offer [here](). Interested candidate should send their CV, cover letter and contact details for two references. The CV should remove all personal references to gender, age, marital status, nationality and should &lt;strong&gt;not&lt;/strong&gt; include a photograph. You can apply by clicking [here]().&lt;/p&gt;
-</description>
+      <title>Verónica Lloréns presents REGUBIOME at the outreach event &#34;Una horchata por la salud&#34;</title>
+      <link>https://example.com/post/02-10-2023_horchata/</link>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/02-10-2023_horchata/</guid>
+      <description>&lt;p&gt;Verónica Lloréns presented the ERC StG project REGUBIOME to the general public in an outreach event organized by FECYT in the context of the Spanish presidency of the Council of the European Union and the conference on Personalized Medicine that is taking place in Valencia these days.&lt;/p&gt;
+&lt;p&gt;The organizers of the event &amp;ldquo;Una horchata por la ciencia&amp;rdquo; invited local researchers working on EU-funded projects, to bring excellent science being done in Valencia closer to the public.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Predoctoral researcher (bioinformatics)</title>
-      <link>https://example.com/join/predoc_bioinfo/</link>
-      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/join/predoc_bioinfo/</guid>
-      <description>&lt;p&gt;The &lt;strong&gt;Systems Biology of Host-Microbiome Interactions&lt;/strong&gt; group is recruiting a predoctoral researcher to work in the ERC-funded project &amp;ldquo;Transcriptional REGUlation as a mediator of bacterial interactions in the microBIOME&amp;rdquo; (Project 101116482 - REGUBIOME - ERC-StG-2023). This project aims to reveal the gene regulatory networks of specific health-associated bacteria from the human gut microbiome, to understand how external stimuli lead to changes in their gene expression, influencing their interactions with the rest of the gut ecosystem.&lt;/p&gt;
-&lt;p&gt;The project will be developed at the &lt;em&gt;&lt;strong&gt;Centro de Investigación Príncipe Felipe (CIPF)&lt;/strong&gt;&lt;/em&gt; in Valencia, Spain, a leading biomedical institute developing competitive and internationally relevant research in the fields of metabolic disorders, cancer and neuronal pathologies. The research centre, located in Valencia, occupies an area of 32,000m2 and it is equipped with the most advanced infraestructures, facilities and technological equipment.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Responsibilities and qualifications&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;In this role, you will be analyzing high throughput transcriptomics datasets derived from large scale screenings, as well as complex metatranscriptomics datasets.&lt;/p&gt;
-&lt;p&gt;Your roles will involve:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Integrating data from multi-omics experiments and high-throughput screens to reconstruct gene regulatory networks in bacteria&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Analyzing host-microbiome interactions using high-throughput (single-cell) transcriptomics datasets&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Developing new reproducible pipelines for different omics analyses&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Active participation in accomplishing the milestones and deliverables of the project&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Your qualifications are:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Required degree: the candidate must have a degree (BSc/MSc) in Bioinformatics&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Experience in microbiome profiling analyses (16S, metagenomics and/or metatranscriptomics)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Strong background in R and/or Python&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Knowledge of Linux systems&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Excellent communication skills in written and spoken English&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;In addition, the following will be considered:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Experience with Nextflow or other workflow managers&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Experience with software containers: Docker or Singularity&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;What we offer:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;We offer a predoctoral researcher contract for 4 years, fully funded by the ERC project REGUBIOME (ERC StG 2023, project 101116482). Salary level follows CIPF salary scales for predoctoral researchers (R1 category), in agreement with the corresponding collective agreement (Convenio de la Sanidad Privada de la Provincia de Valencia).&lt;/p&gt;
-&lt;p&gt;The CIPF promotes equal treatment and opportunities between women and men, which should be considered a fundamental aspect of the CIPF&amp;rsquo;s labor relations and human resources management. In addition, the CIPF is committed to reconcile a work and family life of its employees and are offering the possibility to benefit from flexible working hours. The CIPF is committed to complying with the European Charter for Researchers and the Code of Conduct for the Recruitment of Researchers (EU Charter &amp;amp; Code) by developing its human resources strategy for researchers (HRS4R) and through its open, transparent, and merit-based recruitment policy (OTM-R)&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;How to apply:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;You can find the full official offer [here](). Interested candidate should send their CV, cover letter and contact details for two references. The CV should remove all personal references to gender, age, marital status, nationality and should &lt;strong&gt;not&lt;/strong&gt; include a photograph. You can apply by clicking [here]().&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Predoctoral researcher (wet lab)</title>
-      <link>https://example.com/join/predoc_spcs/</link>
-      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/join/predoc_spcs/</guid>
-      <description>&lt;p&gt;The &lt;strong&gt;Systems Biology of Host-Microbiome Interactions&lt;/strong&gt; group is recruiting a predoctoral researcher to work in the ERC-funded project &amp;ldquo;Transcriptional REGUlation as a mediator of bacterial interactions in the microBIOME&amp;rdquo; (Project 101116482 - REGUBIOME - ERC-StG-2023). This project aims to reveal the gene regulatory networks of specific health-associated bacteria from the human gut microbiome, to understand how external stimuli lead to changes in their gene expression, influencing their interactions with the rest of the gut ecosystem.&lt;/p&gt;
-&lt;p&gt;The project will be developed at the &lt;em&gt;&lt;strong&gt;Centro de Investigación Príncipe Felipe (CIPF)&lt;/strong&gt;&lt;/em&gt; in Valencia, Spain, a leading biomedical institute developing competitive and internationally relevant research in the fields of metabolic disorders, cancer and neuronal pathologies. The research centre, located in Valencia, occupies an area of 32,000m2 and it is equipped with the most advanced infraestructures, facilities and technological equipment.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Responsibilities and qualifications&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;In this role, you will be involved in the development of high-throughput screens to isolate and functionally characterize genetically modified gut bacteria.&lt;/p&gt;
-&lt;p&gt;Your roles will involve:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Development of microfluidic-based screening tools for bacteria&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Isolation, growth and functional profiling of genetically modified bacteria&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Co-culture and functional profiling of communities of gut bacteria of varying complexity&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Active participation in accomplishing the milestones and deliverables of the project&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Your qualifications are:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Required degree: the candidate must have a degree in Biotechnology, Biology, Bioengineering or related disciplines&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Experience in bacterial molecular biology&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Experience in bacterial culturing&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Excellent communication skills in written and spoken English&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;In addition, the following will be considered:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Experience in programming with R and/or Python&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Expertise in transcriptomics&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Experience in microfluidics and/or cytometry&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;What we offer:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;We offer a 4 year predoctoral researcher position, fully funded by the ERC project REGUBIOME (ERC StG 2023, project 101116482). Salary level follows CIPF salary scales for predoctoral researchers (R1 category), in agreement with the corresponding collective agreement (Convenio de la Sanidad Privada de la Provincia de Valencia).&lt;/p&gt;
-&lt;p&gt;The CIPF promotes equal treatment and opportunities between women and men, which should be considered a fundamental aspect of the CIPF&amp;rsquo;s labor relations and human resources management. In addition, the CIPF is committed to reconcile a work and family life of its employees and are offering the possibility to benefit from flexible working hours. The CIPF is committed to complying with the European Charter for Researchers and the Code of Conduct for the Recruitment of Researchers (EU Charter &amp;amp; Code) by developing its human resources strategy for researchers (HRS4R) and through its open, transparent, and merit-based recruitment policy (OTM-R)&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;How to apply:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;You can find the full official offer [here](). Interested candidate should send their CV, cover letter and contact details for two references. The CV should remove all personal references to gender, age, marital status, nationality and should &lt;strong&gt;not&lt;/strong&gt; include a photograph. You can apply by clicking [here]().&lt;/p&gt;
-</description>
+      <title>The Lloréns-Rico Lab receives an ERC StG 2023</title>
+      <link>https://example.com/post/23-09-05_erc/</link>
+      <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/23-09-05_erc/</guid>
+      <description>&lt;p&gt;The project REGUBIOME has received one of the highly competitive ERC Starting grants, receiving 1.5M€ to pursue research on gene regulation in gut bacteria.&lt;/p&gt;
+&lt;p&gt;Link to press release: &lt;a href=&#34;https://www.cipf.es/archives/39240&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.cipf.es/archives/39240&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Link to article in Levante: &lt;a href=&#34;https://www.levante-emv.com/comunitat-valenciana/2023/09/05/joven-valenciana-veronica-llorens-rico-91727959.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.levante-emv.com/comunitat-valenciana/2023/09/05/joven-valenciana-veronica-llorens-rico-91727959.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Link to interview in Valencia Plaza: &lt;a href=&#34;https://valenciaplaza.com/veronica-llorens-investigacion-abrir-puertas-medicina-personalizada&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://valenciaplaza.com/veronica-llorens-investigacion-abrir-puertas-medicina-personalizada&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -202,6 +41,15 @@ human resources strategy for researchers (HRS4R) and through its open, transpare
     </item>
     
     <item>
+      <title>Invited talk at CABD</title>
+      <link>https://example.com/post/22-11-25_talk_cabd/</link>
+      <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/22-11-25_talk_cabd/</guid>
+      <description>&lt;p&gt;Our group leader, Verónica Lloréns-Rico, gave an invited talk at the &lt;em&gt;Centro Andaluz de Biología del Desarrollo&lt;/em&gt; (CABD).&lt;/p&gt;
+&lt;p&gt;She presented her previous work, as well as her vision for her newly established lab. The day was completed with plenty of discussions with the different groups at the CABD. Thanks a lot for the invitation, especially to Prof. Peter Askjaer for hosting!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Contact</title>
       <link>https://example.com/contact/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
@@ -210,18 +58,26 @@ human resources strategy for researchers (HRS4R) and through its open, transpare
     </item>
     
     <item>
-      <title>Team</title>
-      <link>https://example.com/people/</link>
+      <title>Our research</title>
+      <link>https://example.com/research/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/people/</guid>
+      <guid>https://example.com/research/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Tour</title>
+      <title>Research</title>
       <link>https://example.com/tour/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/tour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Team</title>
+      <link>https://example.com/people/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/people/</guid>
       <description></description>
     </item>
     
@@ -431,6 +287,39 @@ human resources strategy for researchers (HRS4R) and through its open, transpare
   &lt;/div&gt;
 &lt;/div&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Mechanisms of gene regulation</title>
+      <link>https://example.com/research_topics/mechanisms/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:43 +0100</pubDate>
+      <guid>https://example.com/research_topics/mechanisms/</guid>
+      <description>&lt;p&gt;Bacteria have a large functional plasticity that allows them to adapt to changing environments and to respond to different stimuli to survive. This functional plasticity is well understood for some model bacteria in vitro, yet the implications in complex ecosystems such as the gut microbiome are unclear. We aim at understanding how is gene expression regulated in gut bacteria, exploring i) what are the stimuli triggering specific gene expression changes, and ii) what are the molecular mechanisms underlying such specific responses, that is, which transcriptional regulators are involved. This will allow us to design targeted strategies for functional modulation of these bacteria in the future.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Related projects:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;REGUBIOME&lt;/strong&gt; (ERC StG 2023) - &amp;ldquo;Transcriptional REGUlation as a mediator of bacterial interactions in the microBIOME&amp;rdquo;.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Drivers of transcriptional variation</title>
+      <link>https://example.com/research_topics/drivers/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:41 +0100</pubDate>
+      <guid>https://example.com/research_topics/drivers/</guid>
+      <description>&lt;p&gt;The composition of the gut microbiota is impacted by several factors: host age, sex and BMI; dietary habits; drug intake&amp;hellip; However, we know very little of how these factors impact transcriptional variation in the microbiota. We will use cohort studies to address the impact of both extrinsic and intrinsic factors in the functionality of the gut microbiota.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Related projects:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;MicroTV&lt;/strong&gt; (&lt;em&gt;Proyectos de Generación de Conocimiento&lt;/em&gt; 2022): Characterization of the MICRObial Transcriptional Variation and its sources in the gut ecosystem&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Functional alterations in disease</title>
+      <link>https://example.com/research_topics/disease/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:40 +0100</pubDate>
+      <guid>https://example.com/research_topics/disease/</guid>
+      <description>&lt;p&gt;It is well known that the gut microbiota performs key functions to maintain host health, and alterations in those functions are linked to different disorders. We are interested in deciphering the functional changes occurring in different metabolic disorders. We will study expression changes both globally, considering the entire ecosystem, and focusing on specific bacteria of interest. Our goal is to find potential biomarkers for early diagnosis and patient stratification, allowing for improved treatment strategies.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Related projects:&lt;/strong&gt; Coming soon&lt;/p&gt;</description>
     </item>
     
     <item>
