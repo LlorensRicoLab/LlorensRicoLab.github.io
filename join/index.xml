@@ -5,12 +5,30 @@
     <link>https://llorensricolab.com/join/</link>
       <atom:link href="https://llorensricolab.com/join/index.xml" rel="self" type="application/rss+xml" />
     <description>Open positions</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 08 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://llorensricolab.com/media/icon_hua5ea9da2a87aac581422e10945bb0806_3794_512x512_fill_lanczos_center_3.png</url>
       <title>Open positions</title>
       <link>https://llorensricolab.com/join/</link>
     </image>
+    
+    <item>
+      <title>Call for expressions of interest, Juan de la Cierva fellowships</title>
+      <link>https://llorensricolab.com/join/postdoc_bioinfo_jdlc/</link>
+      <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://llorensricolab.com/join/postdoc_bioinfo_jdlc/</guid>
+      <description>&lt;p&gt;The &lt;strong&gt;Systems Biology of Host-Microbiome Interactions&lt;/strong&gt; group is looking to recruit a postdoc in bioinformatics through the national Juan de la Cierva call. Different projects are available in the context of national or european projects.&lt;/p&gt;
+&lt;p&gt;The postdoc will be hosted at the &lt;em&gt;&lt;strong&gt;Centro de Investigación Príncipe Felipe (CIPF)&lt;/strong&gt;&lt;/em&gt; in Valencia, Spain, a leading biomedical institute developing competitive and internationally relevant research in the fields of metabolic disorders, cancer and neuronal pathologies. The research centre, located in Valencia, occupies an area of 32,000m2 and it is equipped with the most advanced infraestructures, facilities and technological equipment.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Responsibilities and qualifications&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We are looking for a candidate with a PhD in bioinformatics or related field, deep knowledge of R and or Python, as well as of HPC environments. Experience in metagenomics data processing and analysis is required, and familiarity with containers (Docker, Singularity) and with workflow managers (Nextflow, Snakemake) is a plus.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What we offer:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We offer to host the candidate&amp;rsquo;s application for the upcoming Juan de la Cierva Call, offering to cover the position of the candidate for up to 1 year until the resolution of the call. Salary level follows CIPF salary scales for postdoctoral researchers (R2 category), in agreement with the corresponding collective agreement (Convenio de la Sanidad Privada de la Provincia de Valencia).&lt;/p&gt;
+&lt;p&gt;The CIPF promotes equal treatment and opportunities between women and men, which should be considered a fundamental aspect of the CIPF&amp;rsquo;s labor relations and human resources management. In addition, the CIPF is committed to reconcile a work and family life of its employees and are offering the possibility to benefit from flexible working hours. The CIPF is committed to complying with the European Charter for Researchers and the Code of Conduct for the Recruitment of Researchers (EU Charter &amp;amp; Code) by developing its
+human resources strategy for researchers (HRS4R) and through its open, transparent, and merit-based recruitment policy (OTM-R)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;How to apply:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Interested candidate should send their CV, cover letter and contact details for two references to the following email address: vllorens (at) cipf (dot) es. The CV should remove all personal references to gender, age, marital status, nationality and should &lt;strong&gt;not&lt;/strong&gt; include a photograph. You can apply by clicking.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
