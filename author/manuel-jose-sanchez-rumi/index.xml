@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manuel José Sánchez Rumí | Lloréns-Rico Lab</title>
+    <link>https://llorensricolab.com/author/manuel-jose-sanchez-rumi/</link>
+      <atom:link href="https://llorensricolab.com/author/manuel-jose-sanchez-rumi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Manuel José Sánchez Rumí</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://llorensricolab.com/author/manuel-jose-sanchez-rumi/avatar_hu334c930194767a1fd9cdf98f347c2829_1901520_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Manuel José Sánchez Rumí</title>
+      <link>https://llorensricolab.com/author/manuel-jose-sanchez-rumi/</link>
+    </image>
+    
+  </channel>
+</rss>
