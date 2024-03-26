@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ana Rosa Márquez Blesa | Lloréns-Rico Lab</title>
+    <link>https://llorensricolab.com/author/ana-rosa-marquez-blesa/</link>
+      <atom:link href="https://llorensricolab.com/author/ana-rosa-marquez-blesa/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ana Rosa Márquez Blesa</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://llorensricolab.com/author/ana-rosa-marquez-blesa/avatar_hu4f33ec636025d1d3d9590a777a97993f_15178_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Ana Rosa Márquez Blesa</title>
+      <link>https://llorensricolab.com/author/ana-rosa-marquez-blesa/</link>
+    </image>
+    
+  </channel>
+</rss>
