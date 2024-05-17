@@ -2,6 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://llorensricolab.com/join/postdoc_msca/</loc>
+    <lastmod>2024-05-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://llorensricolab.com/join/</loc>
+    <lastmod>2024-05-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://llorensricolab.com/post/14-05-2024_fisabio/</loc>
     <lastmod>2024-05-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -100,14 +108,6 @@
   </url><url>
     <loc>https://llorensricolab.com/post/19-04-2024_alcoi/</loc>
     <lastmod>2024-04-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://llorensricolab.com/join/</loc>
-    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://llorensricolab.com/join/postdoc_crispr/</loc>
-    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://llorensricolab.com/post/28-02-2024_tjcv/</loc>
