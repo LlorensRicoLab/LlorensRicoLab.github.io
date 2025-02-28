@@ -13,19 +13,197 @@
     </image>
     
     <item>
-      <title>Call for expressions of interest, MSCA postdoctoral fellowships</title>
-      <link>https://llorensricolab.com/join/postdoc_msca/</link>
-      <pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://llorensricolab.com/join/postdoc_msca/</guid>
-      <description>&lt;p&gt;The &lt;strong&gt;Systems Biology of Host-Microbiome Interactions&lt;/strong&gt; group is looking to recruit a postdoc through the international MSCA Postdoctoral Fellowships call. Different research areas are available in the context of national or european projects, both in wet- and dry-lab. We are looking for postdocs with a genuine interest in understanding microbial functions in the context of the gut microbiome.&lt;/p&gt;
+      <title>Bioinformatician</title>
+      <link>https://llorensricolab.com/join/bioinformatician_2025/</link>
+      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://llorensricolab.com/join/bioinformatician_2025/</guid>
+      <description>&lt;p&gt;The &lt;strong&gt;Systems Biology of Host-Microbiome Interactions&lt;/strong&gt; group is looking to recruit a bioinformatician to participate in the analysis of data generated in the context of various projects in the lab. More specifically, the selected candidate will work within two funded projects in the lab (ERC-2023-StG REGUBIOME and PID2022-139948NA-I00) contributing to the following tasks:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Participation in the development of computational pipelines and statistical methods for the analyses of metatranscriptomics data in samples with low microbial biomass&lt;/li&gt;
+&lt;li&gt;Participation in the development of computational pipelines for the analyses of large-scale  bacterial transcriptomics experiments&lt;/li&gt;
+&lt;li&gt;Meta-analysis of public datasets of RNA-seq, metagenomics and metatranscriptomics&lt;/li&gt;
+&lt;li&gt;Data analysis of different types: bacterial transcriptomics, 16S, metagenomics or metatranscriptomics of different sample types&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Beyond these tasks, the selected candidate will participate in the preparation of scientific manuscripts and will be responsible for the data management of different projects.&lt;/p&gt;
+&lt;p&gt;The bioinformatician will be hosted at the &lt;em&gt;&lt;strong&gt;Centro de Investigación Príncipe Felipe (CIPF)&lt;/strong&gt;&lt;/em&gt; in Valencia, Spain, a leading biomedical institute developing competitive and internationally relevant research in the fields of metabolic disorders, cancer and neuronal pathologies. The research centre, located in Valencia, occupies an area of 32,000m2 and it is equipped with the most advanced infraestructures, facilities and technological equipment.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Responsibilities and qualifications&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We are looking for a candidate with a university degree (Master&amp;rsquo;s level) in bioinformatics, biostatistics or related area. Higher academic degrees (PhD) will be considered. The selected candidate must have:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A broad knowledge of R&lt;/li&gt;
+&lt;li&gt;Experience working in high performance computing environments and in the use of workload managers/job schedulers&lt;/li&gt;
+&lt;li&gt;Experience in &lt;strong&gt;at least one&lt;/strong&gt; of the following:
+&lt;ul&gt;
+&lt;li&gt;biostatistics&lt;/li&gt;
+&lt;li&gt;(bacterial) transcriptomics data analysis&lt;/li&gt;
+&lt;li&gt;scRNA-seq data analysis&lt;/li&gt;
+&lt;li&gt;metagenomics or metatranscriptomics data analysis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Additional merits will be considered, such as the knowledge of other programming languages and communication skills&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;How to apply:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Interested candidates shall send their CV, cover letter and recommendation letters [through the job portal on the CIPF website] (&lt;a href=&#34;https://cipf.fundanetsuite.com/ConvocatoriasPropias/es/Convocatorias/VerConvocatoria?Id=130%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://cipf.fundanetsuite.com/ConvocatoriasPropias/es/Convocatorias/VerConvocatoria?Id=130)&lt;/a&gt;. Informal inquiries can be sent to vllorens (at) cipf (dot) es.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Call for expressions of interest, EMBO and MSCA postdoctoral fellowships 2025</title>
+      <link>https://llorensricolab.com/join/postdoc_embo/</link>
+      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://llorensricolab.com/join/postdoc_embo/</guid>
+      <description>&lt;p&gt;The &lt;strong&gt;Systems Biology of Host-Microbiome Interactions&lt;/strong&gt; group is looking to recruit a postdoc through the international MSCA and EMBO Postdoctoral Fellowships calls. Different research areas are available in the context of national or european projects, both in wet- and dry-lab. We are looking for postdocs with a genuine interest in understanding microbial functions in the context of the gut microbiome.&lt;/p&gt;
 &lt;p&gt;The postdoc will be hosted at the &lt;em&gt;&lt;strong&gt;Centro de Investigación Príncipe Felipe (CIPF)&lt;/strong&gt;&lt;/em&gt; in Valencia, Spain, a leading biomedical institute developing competitive and internationally relevant research in the fields of metabolic disorders, cancer and neuronal pathologies. The research centre, located in Valencia, occupies an area of 32,000m2 and it is equipped with the most advanced infraestructures, facilities and technological equipment.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Responsibilities and qualifications&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Dry lab postdocs: We are looking for a candidate with a PhD in bioinformatics, computational biology or related disciplines, with experience in analyses of metagenomics data.&lt;/p&gt;
-&lt;p&gt;Wet lab postdocs: We are looking for a candidate with a PhD in microbiology, molecular biology or related disciplines, with experience in molecular microbiology and/or microbiome experiments using animal models (mouse).&lt;/p&gt;
-&lt;p&gt;In both cases, we have the possibility of providing a postdoctoral contract (up to 1 year), so selected candidates may be able to join before the call results are announced.&lt;/p&gt;
+&lt;p&gt;Wet lab postdocs: We are looking for a candidate with a PhD in microbiology, molecular biology or related disciplines, with broad experience in microbiome experiments using animal models (mouse).&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;How to apply:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Interested candidates should send their CV, cover letter and contact details for two references to the following email address: vllorens (at) cipf (dot) es before June 20th, 2024. The CV should remove all personal references to gender, age, marital status, nationality and should &lt;strong&gt;not&lt;/strong&gt; include a photograph.&lt;/p&gt;
+&lt;p&gt;Interested candidates should send their CV, cover letter and contact details to the following email address: vllorens (at) cipf (dot) es before May 15th, 2025 (MSCA) or June 15th, 2025 (EMBO). The CV should remove all personal references to gender, age, marital status, nationality and should &lt;strong&gt;not&lt;/strong&gt; include a photograph.&lt;/p&gt;
+&lt;p&gt;Informal inquiries are welcome.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;More information:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.embo.org/funding/fellowships-grants-and-career-support/postdoctoral-fellowships/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EMBO postdoctoral fellowships&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2025&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MSCA postdoctoral fellowships&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>11F2025</title>
+      <link>https://llorensricolab.com/post/11-02-2025_11f2025/</link>
+      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://llorensricolab.com/post/11-02-2025_11f2025/</guid>
+      <description>&lt;p&gt;Lab members participate in the activities to celebrate the 11th of February, the International day of Women and Girls in Science&lt;/p&gt;
+&lt;p&gt;This year, the lab has participated in different activities to commemorate the 11th of February, the International Day of Women and Girls in Science.&lt;/p&gt;
+&lt;p&gt;Ana Rosa visited the Sant Pasqual primary school in Torrent (Valencia), to give an inspiring talk on her work with gut bacteria in the REGUBIOME project.&lt;/p&gt;
+&lt;p&gt;Verónica also participated, visiting the IES Comarcal in Burjassot (Valencia), and giving a talk to high school students on her career, her trajectory and on what are the challenges of being a woman leading a research lab in Spain.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Jesus Ignacio Lopez Palau receives the best MSc Thesis in Bioinformatics award</title>
+      <link>https://llorensricolab.com/post/25-10-2024_premiojesus/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://llorensricolab.com/post/25-10-2024_premiojesus/</guid>
+      <description>&lt;p&gt;Jesús defended his MSc thesis in July, and has now received the award at the graduation ceremony of his class.&lt;/p&gt;
+&lt;p&gt;Jesús did his MSc thesis in our group, starting in November 2023 and finishing in June 2024. He worked on benchmarking a variety of computational tools used for analysis of metatranscriptomes,. His MSc thesis is titled &amp;ldquo;A Comparative Study of Metatranscriptomic Pipelines in Simulated Gut Microbiota Samples&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Now he has received an award for the best MSc thesis of his class, promoted by ADM and Biopolis.&lt;/p&gt;
+&lt;p&gt;Congratulations Jesús!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>European Researchers Night</title>
+      <link>https://llorensricolab.com/post/27-09-2024_ern/</link>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://llorensricolab.com/post/27-09-2024_ern/</guid>
+      <description>&lt;p&gt;The team participated in this year&amp;rsquo;s European Researchers Night presenting our REGUBIOME project&lt;/p&gt;
+&lt;p&gt;As part of the &amp;ldquo;European Researchers&amp;rsquo; Night&amp;rdquo; celebration, our group introduced visitors to our REGUBIOME project. Both children and adults learned about the bacteria that are part of our gut microbiota in particular &lt;em&gt;L. rhamnosus&lt;/em&gt; and &lt;em&gt;F. nucleatum&lt;/em&gt;, and how our habits can change their behavior. It was incredibly satisfying to see the interest shown by the families and friends who attended the event. They had the opportunity to observe bacterial growth plates and the entire microencapsulation process through the microscope. We believe these events are essential for sharing knowledge not only with the scientific community but also with the general public.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Manuel and Jesus successfully defended their MSc Theses</title>
+      <link>https://llorensricolab.com/post/24-09-2024_tfms24/</link>
+      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://llorensricolab.com/post/24-09-2024_tfms24/</guid>
+      <description>&lt;p&gt;Manuel and Jesús passed their defenses swiftly, congratulations!&lt;/p&gt;
+&lt;p&gt;Jesús Ignacio López Palau and Manuel José Sánchez Rumí, our two MSc students for the academic year 2023-2024, both defended their theses recently, in July and September, obtaining excellent results! Jesús is now MSc in Bioinformatics (UV) and Manuel obtained his MSc in Biomedical Biotechnology (UPV). Congrats to both of them, and best of luck in your future endeavors!&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/24-09-2024_tfms24/jesus_hub7faf32e4d18d7fe199f001f342c9871_553102_491548258f7dd20664e2687472f1442b.webp 400w,
+               /post/24-09-2024_tfms24/jesus_hub7faf32e4d18d7fe199f001f342c9871_553102_403c286f98ec5c73c4e2bf78e85e16d3.webp 760w,
+               /post/24-09-2024_tfms24/jesus_hub7faf32e4d18d7fe199f001f342c9871_553102_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://llorensricolab.com/post/24-09-2024_tfms24/jesus_hub7faf32e4d18d7fe199f001f342c9871_553102_491548258f7dd20664e2687472f1442b.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/24-09-2024_tfms24/manu_huda42d2e1ac4e0d09f1a5f98d4ea059cb_180466_fbf6903f344a95acced65951ecc7a703.webp 400w,
+               /post/24-09-2024_tfms24/manu_huda42d2e1ac4e0d09f1a5f98d4ea059cb_180466_ff2992abd21df19c0676ac1ab7940736.webp 760w,
+               /post/24-09-2024_tfms24/manu_huda42d2e1ac4e0d09f1a5f98d4ea059cb_180466_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://llorensricolab.com/post/24-09-2024_tfms24/manu_huda42d2e1ac4e0d09f1a5f98d4ea059cb_180466_fbf6903f344a95acced65951ecc7a703.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;574&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Bacteria in metastatic sites: Unveiling hidden players in cancer progression</title>
+      <link>https://llorensricolab.com/publication/reviewphilippe/</link>
+      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://llorensricolab.com/publication/reviewphilippe/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>First lab lunch!</title>
+      <link>https://llorensricolab.com/post/14-06-2024_lablunch24/</link>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://llorensricolab.com/post/14-06-2024_lablunch24/</guid>
+      <description>&lt;p&gt;I-79 Lab lunch 2024!&lt;/p&gt;
+&lt;p&gt;On June 14th we celebrated our first official lab lunch, enjoying a delicious *arròs negre.* The lab is now one and a half years old and we keep growing and learning as a team. Cheers to many more lab traditions to come!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Women in STEM becoming independent: The journey to independence is an immensely gratifying odyssey</title>
+      <link>https://llorensricolab.com/publication/women/</link>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://llorensricolab.com/publication/women/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Estudiando las funciones de la microbiota intestinal: presente y futuro de la metatranscriptómica</title>
+      <link>https://llorensricolab.com/publication/sebbm/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://llorensricolab.com/publication/sebbm/</guid>
+      <description></description>
     </item>
     
     <item>

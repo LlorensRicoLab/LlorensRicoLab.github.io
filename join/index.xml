@@ -5,7 +5,7 @@
     <link>https://llorensricolab.com/join/</link>
       <atom:link href="https://llorensricolab.com/join/index.xml" rel="self" type="application/rss+xml" />
     <description>Open positions</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 17 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 28 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://llorensricolab.com/media/icon_hua5ea9da2a87aac581422e10945bb0806_3794_512x512_fill_lanczos_center_3.png</url>
       <title>Open positions</title>
@@ -13,18 +13,57 @@
     </image>
     
     <item>
-      <title>Call for expressions of interest, MSCA postdoctoral fellowships</title>
-      <link>https://llorensricolab.com/join/postdoc_msca/</link>
-      <pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://llorensricolab.com/join/postdoc_msca/</guid>
-      <description>&lt;p&gt;The &lt;strong&gt;Systems Biology of Host-Microbiome Interactions&lt;/strong&gt; group is looking to recruit a postdoc through the international MSCA Postdoctoral Fellowships call. Different research areas are available in the context of national or european projects, both in wet- and dry-lab. We are looking for postdocs with a genuine interest in understanding microbial functions in the context of the gut microbiome.&lt;/p&gt;
+      <title>Bioinformatician</title>
+      <link>https://llorensricolab.com/join/bioinformatician_2025/</link>
+      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://llorensricolab.com/join/bioinformatician_2025/</guid>
+      <description>&lt;p&gt;The &lt;strong&gt;Systems Biology of Host-Microbiome Interactions&lt;/strong&gt; group is looking to recruit a bioinformatician to participate in the analysis of data generated in the context of various projects in the lab. More specifically, the selected candidate will work within two funded projects in the lab (ERC-2023-StG REGUBIOME and PID2022-139948NA-I00) contributing to the following tasks:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Participation in the development of computational pipelines and statistical methods for the analyses of metatranscriptomics data in samples with low microbial biomass&lt;/li&gt;
+&lt;li&gt;Participation in the development of computational pipelines for the analyses of large-scale  bacterial transcriptomics experiments&lt;/li&gt;
+&lt;li&gt;Meta-analysis of public datasets of RNA-seq, metagenomics and metatranscriptomics&lt;/li&gt;
+&lt;li&gt;Data analysis of different types: bacterial transcriptomics, 16S, metagenomics or metatranscriptomics of different sample types&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Beyond these tasks, the selected candidate will participate in the preparation of scientific manuscripts and will be responsible for the data management of different projects.&lt;/p&gt;
+&lt;p&gt;The bioinformatician will be hosted at the &lt;em&gt;&lt;strong&gt;Centro de Investigación Príncipe Felipe (CIPF)&lt;/strong&gt;&lt;/em&gt; in Valencia, Spain, a leading biomedical institute developing competitive and internationally relevant research in the fields of metabolic disorders, cancer and neuronal pathologies. The research centre, located in Valencia, occupies an area of 32,000m2 and it is equipped with the most advanced infraestructures, facilities and technological equipment.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Responsibilities and qualifications&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We are looking for a candidate with a university degree (Master&amp;rsquo;s level) in bioinformatics, biostatistics or related area. Higher academic degrees (PhD) will be considered. The selected candidate must have:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A broad knowledge of R&lt;/li&gt;
+&lt;li&gt;Experience working in high performance computing environments and in the use of workload managers/job schedulers&lt;/li&gt;
+&lt;li&gt;Experience in &lt;strong&gt;at least one&lt;/strong&gt; of the following:
+&lt;ul&gt;
+&lt;li&gt;biostatistics&lt;/li&gt;
+&lt;li&gt;(bacterial) transcriptomics data analysis&lt;/li&gt;
+&lt;li&gt;scRNA-seq data analysis&lt;/li&gt;
+&lt;li&gt;metagenomics or metatranscriptomics data analysis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Additional merits will be considered, such as the knowledge of other programming languages and communication skills&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;How to apply:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Interested candidates shall send their CV, cover letter and recommendation letters [through the job portal on the CIPF website] (&lt;a href=&#34;https://cipf.fundanetsuite.com/ConvocatoriasPropias/es/Convocatorias/VerConvocatoria?Id=130%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://cipf.fundanetsuite.com/ConvocatoriasPropias/es/Convocatorias/VerConvocatoria?Id=130)&lt;/a&gt;. Informal inquiries can be sent to vllorens (at) cipf (dot) es.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Call for expressions of interest, EMBO and MSCA postdoctoral fellowships 2025</title>
+      <link>https://llorensricolab.com/join/postdoc_embo/</link>
+      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://llorensricolab.com/join/postdoc_embo/</guid>
+      <description>&lt;p&gt;The &lt;strong&gt;Systems Biology of Host-Microbiome Interactions&lt;/strong&gt; group is looking to recruit a postdoc through the international MSCA and EMBO Postdoctoral Fellowships calls. Different research areas are available in the context of national or european projects, both in wet- and dry-lab. We are looking for postdocs with a genuine interest in understanding microbial functions in the context of the gut microbiome.&lt;/p&gt;
 &lt;p&gt;The postdoc will be hosted at the &lt;em&gt;&lt;strong&gt;Centro de Investigación Príncipe Felipe (CIPF)&lt;/strong&gt;&lt;/em&gt; in Valencia, Spain, a leading biomedical institute developing competitive and internationally relevant research in the fields of metabolic disorders, cancer and neuronal pathologies. The research centre, located in Valencia, occupies an area of 32,000m2 and it is equipped with the most advanced infraestructures, facilities and technological equipment.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Responsibilities and qualifications&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Dry lab postdocs: We are looking for a candidate with a PhD in bioinformatics, computational biology or related disciplines, with experience in analyses of metagenomics data.&lt;/p&gt;
-&lt;p&gt;Wet lab postdocs: We are looking for a candidate with a PhD in microbiology, molecular biology or related disciplines, with experience in molecular microbiology and/or microbiome experiments using animal models (mouse).&lt;/p&gt;
-&lt;p&gt;In both cases, we have the possibility of providing a postdoctoral contract (up to 1 year), so selected candidates may be able to join before the call results are announced.&lt;/p&gt;
+&lt;p&gt;Wet lab postdocs: We are looking for a candidate with a PhD in microbiology, molecular biology or related disciplines, with broad experience in microbiome experiments using animal models (mouse).&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;How to apply:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Interested candidates should send their CV, cover letter and contact details for two references to the following email address: vllorens (at) cipf (dot) es before June 20th, 2024. The CV should remove all personal references to gender, age, marital status, nationality and should &lt;strong&gt;not&lt;/strong&gt; include a photograph.&lt;/p&gt;
+&lt;p&gt;Interested candidates should send their CV, cover letter and contact details to the following email address: vllorens (at) cipf (dot) es before May 15th, 2025 (MSCA) or June 15th, 2025 (EMBO). The CV should remove all personal references to gender, age, marital status, nationality and should &lt;strong&gt;not&lt;/strong&gt; include a photograph.&lt;/p&gt;
+&lt;p&gt;Informal inquiries are welcome.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;More information:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.embo.org/funding/fellowships-grants-and-career-support/postdoctoral-fellowships/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EMBO postdoctoral fellowships&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2025&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MSCA postdoctoral fellowships&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
