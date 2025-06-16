@@ -5,12 +5,101 @@
     <link>https://llorensricolab.com/post/</link>
       <atom:link href="https://llorensricolab.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 11 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://llorensricolab.com/media/icon_hua5ea9da2a87aac581422e10945bb0806_3794_512x512_fill_lanczos_center_3.png</url>
       <title>Latest News</title>
       <link>https://llorensricolab.com/post/</link>
     </image>
+    
+    <item>
+      <title>Welcome Fran!</title>
+      <link>https://llorensricolab.com/post/01-06-2025_fran/</link>
+      <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://llorensricolab.com/post/01-06-2025_fran/</guid>
+      <description>&lt;p&gt;Fran has recently joined the group as bioinformatician and data analyst&lt;/p&gt;
+&lt;p&gt;Fran Merino has recently joined the lab as bioinformatician and data analyst. With a bachelor in Computer Engineering and a PhD in Biomedical Engineering, he has a strong background in pipeline development and optimization, predictive modeling and big data analysis. He will contribute to different ongoing projects in the lab by performing metagenomic/metatranscriptomic data analysis and developing new pipelines and software tools.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Researchers go to school</title>
+      <link>https://llorensricolab.com/post/28-05-2025_rgts/</link>
+      <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://llorensricolab.com/post/28-05-2025_rgts/</guid>
+      <description>&lt;p&gt;Verónica participated in this year&amp;rsquo;s edition of &amp;ldquo;Researchers go to school&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Researchers go to school is an initiative that brings together students from all ages and researchers in various disciplines. Through this action, researchers visit schools to share their knowledge, experiences and passion. Verónica participated in the last edition of this initiative, visiting a public primary school in Valencia. Through a short talk and a card-collecting game, she explained students (aged 8 to 10 years old) the importance of keeping a diverse microbiota with many good bacteria. In total, more than 150 students participated in this activity.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/28-05-2025_rgts/images/rgts3_hu447e204f4d18572619e9ad6f34ad1dde_236180_e1d2d9581ddc9c9e23b8cca20f520e8e.webp 400w,
+               /post/28-05-2025_rgts/images/rgts3_hu447e204f4d18572619e9ad6f34ad1dde_236180_044212e1791db4d1b0d6299dc33d927a.webp 760w,
+               /post/28-05-2025_rgts/images/rgts3_hu447e204f4d18572619e9ad6f34ad1dde_236180_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://llorensricolab.com/post/28-05-2025_rgts/images/rgts3_hu447e204f4d18572619e9ad6f34ad1dde_236180_e1d2d9581ddc9c9e23b8cca20f520e8e.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Researchers go to school&amp;rdquo; is organized by EsCiencia and the Fundación La Caixa, funded by the EU through a Marie Sklodowska-Curie Action (101162311/HORIZON-MSCA-2023-CITIZENS-01: Marie Sklodowska-Curie-European Night of Researchers and actions of Researchers in Schools 2024-2025).&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>General meeting of the MIdAS network</title>
+      <link>https://llorensricolab.com/post/22-05-2025_midas/</link>
+      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://llorensricolab.com/post/22-05-2025_midas/</guid>
+      <description>&lt;p&gt;Our PI, Verónica Lloréns-Rico, attended the General Meeting of the Red MIdAS network&lt;/p&gt;
+&lt;p&gt;The lab, which joined this network last year, was represented at the general meeting of the network, which took place on May 22nd at the IMDEA Alimentación research institute in Madrid. The goal of this meeting was to present the results of the different working groups part of the network and to stimulate discussions on how to standardize and improve methodologies in the study of the microbiota, from collection and preservation methods to the bioinformatics analyses.&lt;/p&gt;
+&lt;p&gt;Besides, an Open Science activity was organized, which included a broad perspective on the human microbiota and a tutorial on web tools to access and analyze microbiome datasets.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The lab joins the COST Action INFOGUT</title>
+      <link>https://llorensricolab.com/post/01-05-2025_cost/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://llorensricolab.com/post/01-05-2025_cost/</guid>
+      <description>&lt;p&gt;The network is aimed at standardizing and expanding the use of &lt;em&gt;in vitro&lt;/em&gt; models of the colon to simulate the intestinal microbiota&lt;/p&gt;
+&lt;p&gt;Our group has recently joined the COST Action INFOGUT (CA23110), formed by researchers across all Europe. This network brings together experts in gastroenterology, biotechnology, bioengineering, physiology, nutrition, biochemistry, bioinformatics, microbiology, etc., with the goal of filling the knowledge gap on &lt;em&gt;in vitro&lt;/em&gt; colon models and expanding their use in research and regulatory use.&lt;/p&gt;
+&lt;p&gt;Our lab aims to contribute in the following working groups:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;WG1. Review of existing &lt;em&gt;in vitro&lt;/em&gt; human colon models and harmonized guidelines&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;WG2. Extension to other gut compartments and host interactions&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;WG3. Extension to diseased situations.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Our lab is open to host visitors on short-term scientific missions wishing to learn the techniques for high-throughput culturing we are developing. If you are interested, please &lt;a href=&#34;https://llorensricolab.com/contact/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;contact us&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More info on this COST Action can be found &lt;a href=&#34;https://www.cost.eu/actions/CA23110/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Welcome Raquel!</title>
+      <link>https://llorensricolab.com/post/01-03-2025_raquel/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://llorensricolab.com/post/01-03-2025_raquel/</guid>
+      <description>&lt;p&gt;Raquel has joined the lab as an undergraduate student&lt;/p&gt;
+&lt;p&gt;Raquel is a 4th year student of the Degree in Biotechnology at the &lt;em&gt;Universitat Politècnica de València&lt;/em&gt;. She will develop her undergraduate project within our lab, studying the association between human intestinal spirochetosis and irritable bowel syndrome and using a combination of wet- and dry-lab work.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>11F2025</title>

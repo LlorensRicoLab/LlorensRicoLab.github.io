@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://llorensricolab.com/post/</loc>
+    <lastmod>2025-06-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://llorensricolab.com/post/01-06-2025_fran/</loc>
+    <lastmod>2025-06-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://llorensricolab.com/post/28-05-2025_rgts/</loc>
+    <lastmod>2025-05-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://llorensricolab.com/post/22-05-2025_midas/</loc>
+    <lastmod>2025-05-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://llorensricolab.com/post/01-05-2025_cost/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://llorensricolab.com/post/01-03-2025_raquel/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://llorensricolab.com/join/bioinformatician_2025/</loc>
     <lastmod>2025-02-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -15,10 +39,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://llorensricolab.com/post/11-02-2025_11f2025/</loc>
-    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://llorensricolab.com/post/</loc>
     <lastmod>2025-02-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -668,6 +688,9 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://llorensricolab.com/author/laura-sola/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://llorensricolab.com/author/raquel-martinez-gutierrez/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://llorensricolab.com/author/tania-gaviria/</loc>
