@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Francisco Merino Casallo | Lloréns-Rico Lab</title>
+    <link>https://llorensricolab.com/author/francisco-merino-casallo/</link>
+      <atom:link href="https://llorensricolab.com/author/francisco-merino-casallo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Francisco Merino Casallo</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://llorensricolab.com/author/francisco-merino-casallo/avatar_hu9480c8f6f138129c6a290517afa13863_150051_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Francisco Merino Casallo</title>
+      <link>https://llorensricolab.com/author/francisco-merino-casallo/</link>
+    </image>
+    
+  </channel>
+</rss>
