@@ -2,11 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://llorensricolab.com/post/11-02-2026_11f2026/</loc>
+    <lastmod>2026-02-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://llorensricolab.com/post/</loc>
-    <lastmod>2025-06-02T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://llorensricolab.com/post/04-06-2026_semipyp/</loc>
+    <lastmod>2026-02-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://llorensricolab.com/post/03-02-2026_cipfvrain/</loc>
+    <lastmod>2026-02-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://llorensricolab.com/post/29-01-2026_stemgirls/</loc>
+    <lastmod>2026-01-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://llorensricolab.com/post/12-12-2025_tfgraquel/</loc>
+    <lastmod>2025-12-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://llorensricolab.com/post/16-09-2025_embl_sept/</loc>
+    <lastmod>2025-09-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://llorensricolab.com/post/15-07-2025_lablunch25/</loc>
+    <lastmod>2025-07-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://llorensricolab.com/post/24-06-2025_embl_june/</loc>
+    <lastmod>2025-06-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://llorensricolab.com/post/01-06-2025_fran/</loc>
+    <lastmod>2025-06-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://llorensricolab.com/post/01-10-2025_laura/</loc>
     <lastmod>2025-06-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -40,6 +76,10 @@
   </url><url>
     <loc>https://llorensricolab.com/post/11-02-2025_11f2025/</loc>
     <lastmod>2025-02-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://llorensricolab.com/post/27-09-2025_nei/</loc>
+    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://llorensricolab.com/post/25-10-2024_premiojesus/</loc>
@@ -688,6 +728,9 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://llorensricolab.com/author/jesus-ignacio-lopez-palau/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://llorensricolab.com/author/laura-sanchez/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://llorensricolab.com/author/laura-sola/</loc>
